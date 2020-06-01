@@ -1,6 +1,6 @@
 import numpy as np 
-import cv2 #to convert images
-import os #to get the data from the path or to set the path
+import cv2 
+import os 
 x=20
 y=30
 def faceDetection(test_img):
