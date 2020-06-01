@@ -1,4 +1,4 @@
-import numpy as np #numpy for converting into array
+import numpy as np 
 import cv2 #to convert images
 import os #to get the data from the path or to set the path
 x=20
